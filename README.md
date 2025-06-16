@@ -1,5 +1,5 @@
-💫 About Me:
-Here's a well-crafted **"About Me"** section you can use in your GitHub README:<br><br>---<br><br>## 👋 About Me<br><br>Hi there! I'm Syed Muhammad Ali, a passionate software developer with hands-on experience in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I enjoy building scalable web applications and continuously expanding my tech stack.<br><br>🎯 Currently, I'm diving deeper into the world of DevOps and Project Management, exploring tools and practices that bridge the gap between development and operations.<br><br>🐍 I'm also learning Python and its amazing backend frameworks like Flask and FastAPI, so I'm always open to collaboration, mentorship, and new challenges in these areas!<br><br> 🔍 What I’m Looking For<br><br>Help and guidance in Python, Flask, FastAPI, and backend best practices<br>Opportunities to work on real-world DevOps projects<br>Mentorship or resources related to Project Management<br><br>🎉 Fun Fact<br><br>I can debug JavaScript issues faster than I can find my keys! 🔑😄<br>Also, I believe coffee ☕ and clean code 🧼 are the foundation of productivity.<br>
+# 💫 About Me:
+👋 About Me<br><br>Hi there! I'm Syed Muhammad Ali, a passionate software developer with hands-on experience in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I enjoy building scalable web applications and continuously expanding my tech stack.<br><br>🎯 Currently, I'm diving deeper into the world of DevOps and Project Management, exploring tools and practices that bridge the gap between development and operations.<br><br>🐍 I'm also learning Python and its amazing backend frameworks like Flask and FastAPI, so I'm always open to collaboration, mentorship, and new challenges in these areas!<br><br> 🔍 What I’m Looking For<br><br>Help and guidance in Python, Flask, FastAPI, and backend best practices<br>Opportunities to work on real-world DevOps projects<br>Mentorship or resources related to Project Management<br><br>🎉 Fun Fact<br><br>I can debug JavaScript issues faster than I can find my keys! 🔑😄<br>Also, I believe coffee ☕ and clean code 🧼 are the foundation of productivity.<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@ Here's a well-crafted **"About Me"** section you can use in your GitHub README:<
 ![](https://github-readme-stats.vercel.app/api?username=Syed-Muhammad-A1i&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Syed-Muhammad-A1i&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Muhammad-A1i&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Syed-Muhammad-A1i&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Syed-Muhammad-A1i&icon=0&color=0)](https://visitcount.itsvg.in)
